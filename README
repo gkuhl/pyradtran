@@ -1,0 +1,8 @@
+pyradtran
+""""""""" 
+Some functions to steer the libradtran (http://www.libradtran.org/)
+radiative transfer code from within Python.
+
+Contact: Gerrit Kuhlmann <gerrit.kuhlmann@gmail.com>
+Affiliation: School of Energy and Environment, City University of Hong Kong
+Internet: http://airquality.e2.cityu.edu.hk
